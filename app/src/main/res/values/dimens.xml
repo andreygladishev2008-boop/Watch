@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">14dp</dimen>
+    <dimen name="box_inset_layout_padding">0dp</dimen>
+    <dimen name="inner_frame_layout_padding">4dp</dimen>
+    <dimen name="header_height">44dp</dimen>
+    <dimen name="card_corner">12dp</dimen>
+    <dimen name="poster_width">64dp</dimen>
+    <dimen name="poster_height">92dp</dimen>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WorldCinema</string>
+
+    <!-- Auth -->
+    <string name="email">E-mail</string>
+    <string name="email_hint">you@example.com</string>
+    <string name="password">Пароль</string>
+    <string name="password_hint">Ваш пароль</string>
+    <string name="name">Имя</string>
+    <string name="name_hint">Как вас зовут?</string>
+    <string name="re_password">Повторите пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="to_register">Нет аккаунта? Зарегистрироваться</string>
+    <string name="i_have_account">У меня уже есть аккаунт</string>
+    <string name="demo_hint">Демо-вход: любой корректный e-mail и пароль от 4 символов</string>
+
+    <!-- Main menu -->
+    <string name="collections">Подборки</string>
+    <string name="discussions">Обсуждения</string>
+    <string name="favourites">Избранное</string>
+    <string name="profile">Профиль</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="world_cinema">Мировое кино</string>
+    <string name="main_subtitle">Кино на вашем запястье</string>
+
+    <!-- Collections -->
+    <string name="marvel">Marvel</string>
+    <string name="marvel_desc">Супергерои и большие истории</string>
+    <string name="dc">DC</string>
+    <string name="dc_desc">Бэтмен, Супермен и другие</string>
+    <string name="star_wars">Star Wars</string>
+    <string name="star_wars_desc">Давным-давно в далёкой галактике</string>
+    <string name="comedy">Комедии</string>
+    <string name="comedy_desc">Для хорошего настроения</string>
+    <string name="horror">Ужасы</string>
+    <string name="horror_desc">Фильмы, которые щекочут нервы</string>
+    <string name="search_movies">Поиск фильмов</string>
+    <string name="search_movies_desc">Найти любой фильм в OMDB</string>
+
+    <!-- Movies -->
+    <string name="search_hint">Название фильма</string>
+    <string name="enter_query">Введите название фильма и нажмите «Найти»</string>
+    <string name="search">Найти</string>
+    <string name="loading">Загрузка…</string>
+    <string name="nothing_found">Ничего не найдено. Попробуйте другой запрос.</string>
+    <string name="network_error">Ошибка сети. Проверьте подключение к интернету.</string>
+    <string name="server_error">OMDB временно недоступен. Попробуйте позже.</string>
+    <string name="retry">Повторить</string>
+    <string name="movies">Фильмы</string>
+    <string name="found">Найдено: %1$s</string>
+
+    <!-- Movie details -->
+    <string name="movie">Фильм</string>
+    <string name="year">Год</string>
+    <string name="genre">Жанр</string>
+    <string name="runtime">Длительность</string>
+    <string name="rating">Рейтинг IMDb</string>
+    <string name="plot">Описание</string>
+    <string name="director">Режиссёр</string>
+    <string name="actors">Актёры</string>
+    <string name="add_to_favourites">В избранное</string>
+    <string name="remove_from_favourites">Удалить из избранного</string>
+    <string name="added_to_favourites">Добавлено в избранное</string>
+    <string name="removed_from_favourites">Удалено из избранного</string>
+
+    <!-- Favourites -->
+    <string name="no_favourites">Пока нет избранных фильмов</string>
+    <string name="no_favourites_hint">Откройте подборку и добавьте фильм звёздочкой</string>
+    <string name="find_movies">Найти фильмы</string>
+    <string name="delete">Удалить</string>
+
+    <!-- Chats -->
+    <string name="chat_marvel_last">Обсуждаем финальную сцену…</string>
+    <string name="chat_witcher_last">Второй сезон уже вышел!</string>
+    <string name="chat_lost_last">Кто понял концовку?</string>
+    <string name="chat_magicians_last">Новая серия — просто огонь</string>
+    <string name="write_message">Напишите сообщение…</string>
+    <string name="send">Отправить</string>
+
+    <!-- Profile -->
+    <string name="my_profile">Мой профиль</string>
+    <string name="favourites_count">Избранных фильмов</string>
+    <string name="collections_count">Подборок</string>
+    <string name="app_version">Версия приложения</string>
+    <string name="logout">Выйти</string>
+    <string name="logout_confirm">Выйти из аккаунта?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+    <!-- Common -->
+    <string name="back">Назад</string>
+    <string name="close">Закрыть</string>
+    <string name="error">Ошибка</string>
+    <string name="ok">ОК</string>
+    <string name="guest">Гость</string>
+</resources>
